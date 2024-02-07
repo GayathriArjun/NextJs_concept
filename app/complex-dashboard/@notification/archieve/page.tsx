@@ -6,7 +6,7 @@ export default function Archieve(){
     return (
         <Card> Archieved Notification
 
-           <Link href="/complex-dashboard/archieve">archieve</Link>
+           <Link href="/complex-dashboard">archieve</Link>
         </Card>
     
     
