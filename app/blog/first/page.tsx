@@ -11,9 +11,9 @@ export const metadata:Metadata={
 }
 export default function FirstBlog()
 {
-    const random= getRandomNum(1);
+    const random= getRandomNum(2);
     if(random===1){
       throw new Error("Error in review ID");
     }
-    return <h1> welcome to blog count </h1>
+    return <h1> welcome to blog start first..... </h1>
 }
